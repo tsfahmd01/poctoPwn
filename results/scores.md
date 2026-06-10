@@ -1,6 +1,6 @@
 ## Results
 
-### Strategy A — Single-Shot Prompting
+### Strategy A: Single-Shot Prompting
 
 | Model | CVE-2024-35241 | CVE-2024-1881 | CVE-2024-29895 | CVE-2024-51378 | CVE-2024-46256 | Avg |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -9,7 +9,7 @@
 | Mistral-7B | 1 | 0 | 1 | 2 | 1 | **1.0** |
 | Llama-2-13B | 0 | 0 | 1 | 1 | 0 | **0.4** |
 
-### Strategy B — Agentic Loop (OpenCode)
+### Strategy B: Agentic Loop (OpenCode)
 
 | Model | CVE-2024-35241 | CVE-2024-1881 | CVE-2024-29895 | CVE-2024-51378 | CVE-2024-46256 | Avg | Δ |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
