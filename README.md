@@ -26,8 +26,6 @@ poctoPwn is a benchmark framework that tests four consumer-grade LLMs on generat
 | Mistral-7B-Instruct-v0.2 | 7B | Late 2023 |
 | Llama-2-13B-Chat | 13B | September 2022 |
 
-All models run under 4-bit or 8-bit quantization on a single local GPU.
-
 ---
 
 ## CVE Dataset
