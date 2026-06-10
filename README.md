@@ -30,7 +30,7 @@ poctoPwn is a benchmark framework that tests four consumer-grade LLMs on generat
 
 ## CVE Dataset
 
-Five CWE-78 (OS Command Injection) vulnerabilities, all disclosed in 2024 — after every model's training cutoff.
+Five CWE-77 & CWE-78 (Command Injection) vulnerabilities, all disclosed in 2024, after every model's training cutoff.
 
 | CVE ID | Product | Docker Image | Language |
 |---|---|---|---|
