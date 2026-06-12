@@ -125,7 +125,7 @@ If you use poctoPwn in your research, please cite:
 
 ```
 [Tauseef Ahmed] (2025). poctoPwn: Evaluating Open-Source LLMs for Exploit Generation
-from Security Fixes. [DOI when available to_be_added]
+from Security Fixes. [DOI: 10.5281/zenodo.20646244]
 ```
 
 ---
