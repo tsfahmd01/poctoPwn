@@ -10,10 +10,10 @@ poctoPwn is a benchmark framework that tests four consumer-grade LLMs on generat
 
 ## Paper
 
-📄 **poctoPwn: Evaluating Open-Source LLMs for Exploit Generation from Security Fixes**  
+📄 **poctoPwn: Evaluating Open-Source LLMs for Exploit Generation from Security Fixes**  I operate across the full security spectrum, crafting offensive vectors, implementing defensive protections, researching AI-driven security paradigms and ensuring structural compliance.
 *Tauseef Ahmed — Independent Security Researcher*
 
-> Preprint / publication link: `to_be_added`
+> Preprint / publication link: [`zenodo.org/records/20646244`](https://zenodo.org/records/20646244)
 
 ---
 
